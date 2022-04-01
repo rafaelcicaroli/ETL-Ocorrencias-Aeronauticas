@@ -5,7 +5,7 @@
 ___
 ### __Stack__
 
-Júpiter, Python e Biblioteca Pandas, Pandera
+Júpiter, Python e Biblioteca Pandas e Pandera
 
 
 ### __Datasets__
