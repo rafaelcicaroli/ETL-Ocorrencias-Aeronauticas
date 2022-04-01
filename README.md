@@ -32,7 +32,7 @@ Neste modelo você verifica como as informações da nossa base de dados estão 
 
 ### __Análise Exploratória__
 
-Após análise, O ETL foi realizado com os dados de todas as ocorrências de acidentes aeronáuticos realizadas pelo CENIPA
+Após análise, O ETL foi realizado com o dataset de todas as ocorrências de acidentes aeronáuticos realizadas pelo CENIPA
 
  
 
