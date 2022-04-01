@@ -7,7 +7,7 @@ ___
 
 Python, Bibliotecas Pandera, Pandas, Jupyter
 
-### __Dataset__
+### __Datasets__
 
 Dados obtidos no Centro de Investigação e Prevenção de Acidentes Aeronáuticos da força aérea brasileira [(CENIPA)](https://www2.fab.mil.br/cenipa/)
 
