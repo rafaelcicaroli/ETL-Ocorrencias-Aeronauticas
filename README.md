@@ -1,7 +1,7 @@
 # __Ocorrências Aeronáuticas__<br/>
 
 ![](https://pin.it/2Cuo7Au) 
-*O objetivo do projeto é percorrer todo o processo ETL: **extração**, **trasnformação** que é a manipulação para gerar novos dados e após isso **carregar** em novos repositórios para serem utilizados por ferramentas, pessoas, algoritmos, como desejar, e que sejam dados úteis nessas novas utilizações*
+*O objetivo do projeto é percorrer todo o processo ETL: **extração**, **trasnformação** que é a manipulação para gerar novos dados e após isso **carregar** em novos repositórios para serem utilizados por ferramentas, pessoas, algoritmos, e que esses dados sejam úteis nessas suas novas utilizações*
 ___
 ### __Stack__
 
